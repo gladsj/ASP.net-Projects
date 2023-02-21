@@ -1,0 +1,46 @@
+﻿body {
+          width: 600px;
+          height: 600px;
+          border: 1px solid black;
+          margin: auto;
+          
+}
+
+
+
+.Labels{
+     display: inline-block;
+     width: 250px;
+     text-align: center;
+     color: black;
+}
+
+.Button{
+     margin-left: 190px;
+     color: black;
+}
+
+
+.textBox
+{
+     margin-left: 180px;
+     color: black;
+}
+
+
+.Heading {
+     margin-left: 150px;
+     color: black;
+}
+.Title {
+     margin-left: 180px;
+     color: black;
+}
+
+.Solution {
+     margin-left: 270px;
+}
+
+#form1 {
+     background-color: #94D1E0;
+}
