@@ -1,0 +1,25 @@
+﻿body {
+      background-color:aqua;
+     align-items: center;
+
+}
+     
+.lblTitle {
+     text-align: left;
+}
+
+.lblHeading{
+     text-align: center;
+}
+
+
+.requiredFieldValidator {
+     font-weight: bold;
+     color: red;
+}
+
+.rangeValidator {
+     font-weight: bold;
+     color: red;
+}
+
